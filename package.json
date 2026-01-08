@@ -9,6 +9,10 @@
     "vscode": "^1.107.0"
   },
   "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RafalusWorks/gemini-python-dark-theme"
+  },
   "galleryBanner": {
     "color": "#1e1e1e",
     "theme": "dark"
