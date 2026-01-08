@@ -18,7 +18,8 @@ A dark, high‑contrast Visual Studio Code theme inspired by the color palette u
 - Vibrant syntax colors inspired by Gemini’s Python styling
 - Carefully tuned contrast for readability without eye strain
 - Clean UI elements that stay out of your way
-- Tailored primarily for Python, but works beautifully across all languages
+- Tailored primarily for Python
+- Best looks with **Google Sans Code** font
 
 ## 📦 Installation
 
