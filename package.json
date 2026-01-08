@@ -1,0 +1,35 @@
+{
+  "name": "gemini-python-color-theme",
+  "displayName": "Gemini Python Dark Theme",
+  "description": "Custom inspired by Gemini Python Color Theme",
+  "publisher": "RafalusWorks",
+  "license": "MIT",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "python",
+    "gemini",
+    "color theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gemini Python Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gemini Python Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
