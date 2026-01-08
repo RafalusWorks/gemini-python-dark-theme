@@ -4,7 +4,7 @@
   "description": "Custom inspired by Gemini Python Color Theme",
   "publisher": "RafalusWorks",
   "license": "MIT",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.107.0"
   },
