@@ -10,7 +10,7 @@ A dark, high‑contrast Visual Studio Code theme inspired by the color palette u
 
 ## 📸 Screenshots
 
-![Python Example](images/screenshot.png)
+![Python Example](images/screenshot.jpg)
 
 ## ✨ Features
 
