@@ -3,6 +3,11 @@
 All notable changes to the **Gemini Python Dark Theme** extension will be documented in this file.
 
 ---
+## **[0.0.5] – 2025‑01‑08 **
+### Added
+- Added Screenshot to the README.md
+
+---
 
 ## **[0.0.4] – 2025‑01‑08 First Publish**
 ### Added
