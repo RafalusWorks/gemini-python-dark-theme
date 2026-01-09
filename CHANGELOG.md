@@ -3,6 +3,9 @@
 All notable changes to the **Gemini Python Dark Theme** extension will be documented in this file.
 
 ## **[0.0.7] – 2025‑01‑09**
+### Added
+- Added Gemini color palette for JavaScript
+
 ### Changed
 - Updated Icon
 
