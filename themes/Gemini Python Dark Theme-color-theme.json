@@ -71,7 +71,8 @@
 			"name": "Numbers & Constants",
 			"scope": [
 				"constant.numeric",
-				"constant.language"
+				"constant.language",
+				"meta.object-literal.key.js",
 			],
 			"settings": {
 				"foreground": "#E78A43"
@@ -83,7 +84,10 @@
 				"keyword.control",
 				"storage.type.function.python",
 				"storage.type.class.python",
-				"keyword.operator.logical.python"
+				"keyword.operator.logical.python",
+				"storage.type.function.js",
+				"storage.type.js",
+				"storage.type.class.js",
 			],
 			"settings": {
 				"foreground": "#BF86F2"
@@ -98,6 +102,7 @@
 				"entity.name.type.class.python",
 				"punctuation.definition.inheritance.begin.python",
 				"punctuation.definition.inheritance.end.python",
+				"meta.definition.function.js",
 			],
 			"settings": {
 				"foreground": "#F7D161"
@@ -143,6 +148,7 @@
 				"support.type",
 				"support.type.exception.python",
 				"support.function.builtin.python",
+				"meta.function-call.js",
 			],
 			"settings": {
 				"foreground": "#C3C3C3"
