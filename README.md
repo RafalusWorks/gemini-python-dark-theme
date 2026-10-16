@@ -1,12 +1,5 @@
 # **Gemini Python Dark Theme**
 
-<p align="left">
-  <img src="https://img.shields.io/visual-studio-marketplace/v/RafalusWorks.gemini-python-color-theme?label=Version&color=4CAF50" alt="Version">
-  <img src="https://img.shields.io/visual-studio-marketplace/i/RafalusWorks.gemini-python-color-theme?label=Installs&color=2196F3" alt="Installs">
-  <img src="https://img.shields.io/visual-studio-marketplace/r/RafalusWorks.gemini-python-color-theme?label=Rating&color=FFB300" alt="Rating">
-  <img src="https://img.shields.io/github/license/RafalusWorks/gemini-python-dark-theme?color=9C27B0" alt="License">
-</p>
-
 A dark, high‑contrast Visual Studio Code theme inspired by the colour palette used by Gemini for Python code.
 
 ## 📸 SCREENSHOTS
