@@ -1,6 +1,14 @@
 # Change Log
 
 All notable changes to the **Gemini Python Dark Theme** extension will be documented in this file.
+## **[0.0.8] – 2026‑10‑14**
+### Added
+- Added some color adjustments
+
+### Changed
+- Updated InlayHint colors
+
+---
 
 ## **[0.0.7] – 2025‑01‑09**
 ### Added
@@ -19,7 +27,7 @@ All notable changes to the **Gemini Python Dark Theme** extension will be docume
 
 ## **[0.0.5] – 2025‑01‑08**
 ### Added
-- Added Screenshot to the README.md
+- Added Screenshot to the README
 
 ---
 
