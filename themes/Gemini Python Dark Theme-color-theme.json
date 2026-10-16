@@ -62,7 +62,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "fontStyle": "italic",
+                // "fontStyle": "italic",
                 "foreground": "#5c5c5c"
             }
         },
@@ -73,7 +73,7 @@
                 "string.quoted.docstring punctuation.definition.string"
             ],
             "settings": {
-                "fontStyle": "italic",
+                // "fontStyle": "italic",
                 "foreground": "#5c5c5c"
             }
         },
