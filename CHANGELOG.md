@@ -1,6 +1,12 @@
 # Change Log
 
 All notable changes to the **Gemini Python Dark Theme** extension will be documented in this file.
+## **[0.0.9] – 2026‑10‑16**
+### Changed
+- Removed italic formatting from comments and docstrings
+
+---
+
 ## **[0.0.8] – 2026‑10‑14**
 ### Added
 - Added some color adjustments
