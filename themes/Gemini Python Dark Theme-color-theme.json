@@ -84,7 +84,7 @@
                 "keyword.control"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": "#969dff"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": "#969dff"
             }
         },
         {
@@ -113,7 +113,7 @@
                 "support.function.builtin"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#969dff"
             }
         },
         {
@@ -130,7 +130,8 @@
             "scope": [
                 "entity.name.type",
                 "entity.name.class",
-                "support.class"
+                "support.class",
+                "entity.other.inherited-class"
             ],
             "settings": {
                 "foreground": "#F7D161"
@@ -142,17 +143,30 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                // "foreground": "#82AAFF"
+                "foreground": "#ff5a59"
+            }
+        },
+        {
+            "name": "Python Built-in Exceptions",
+            "scope": [
+                "support.type.exception"
+            ],
+            "settings": {
+                "foreground": "#F7D161"
             }
         },
         {
             "name": "Strings & Text",
             "scope": [
                 "string",
-                "punctuation.definition.string"
+                "punctuation.definition.string",
+                "storage.type.string",
+                "meta.fstring"
             ],
             "settings": {
-                "foreground": "#81C995"
+                // "foreground": "#60d673"
+                "foreground": "#60d673"
             }
         },
         {
@@ -162,7 +176,8 @@
                 "storage.type.number"
             ],
             "settings": {
-                "foreground": "#E78A43"
+                // "foreground": "#E78A43"
+                "foreground": "#ff96da"
             }
         },
         {
@@ -171,7 +186,8 @@
                 "constant.language"
             ],
             "settings": {
-                "foreground": "#E78A43"
+                // "foreground": "#E78A43"
+                "foreground": "#ff96da"
             }
         },
         {
@@ -222,7 +238,8 @@
                 "meta.annotation"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                // "foreground": "#82AAFF"
+                "foreground": "#ff5a59"
             }
         },
         {
@@ -258,7 +275,7 @@
                 "constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#81C995"
+                "foreground": "#60d673"
             }
         },
         {
@@ -268,7 +285,7 @@
                 "constant.regexp"
             ],
             "settings": {
-                "foreground": "#81C995"
+                "foreground": "#60d673"
             }
         },
         {
@@ -278,7 +295,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": "#969dff"
             }
         },
         {

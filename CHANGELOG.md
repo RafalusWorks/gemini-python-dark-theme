@@ -1,6 +1,21 @@
 # Change Log
 
 All notable changes to the **Gemini Python Dark Theme** extension will be documented in this file.
+
+## **[0.1.0] – 2026‑10‑30**
+### Changed
+- Aligned Python syntax colors with the official Gemini code block palette:
+  - Updated keywords, storage modifiers, and decorators to periwinkle (`#969dff`)
+  - Updated numbers and constants (`True`, `False`, `None`) to pink (`#ff96da`)
+  - Updated strings, regex, and f-string components to vibrant green (`#60d673`)
+  - Updated type annotations and support types to coral red (`#ff5a59`)
+- Updated preview screenshot in README (`screenshot.png`)
+
+### Added
+- Explicit color definitions for inherited classes and built-in exceptions (`#F7D161`)
+
+---
+
 ## **[0.0.9] – 2026‑10‑16**
 ### Changed
 - Removed italic formatting from comments and docstrings

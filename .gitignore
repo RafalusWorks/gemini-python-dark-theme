@@ -1,4 +1,19 @@
+# VS Code & Packaging
 *.vsix
 .vscode/
+.vscode-test/
+.private/
+backup/
+
+# Node & Package Managers
 node_modules/
+*.log
+
+# OS Noise
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Python Noise (if testing syntax samples locally)
+__pycache__/
+*.py[cod]
